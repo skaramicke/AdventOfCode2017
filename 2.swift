@@ -33,5 +33,5 @@ for line in lines {
     sumDiffs += biggest - smallest
 }
 
-print("Day 1, task 1: \(sumDiffs)")
-print("Day 1, task 1: \(sumDivisions)")
+print("Day 2, task 1: \(sumDiffs)")
+print("Day 2, task 1: \(sumDivisions)")
